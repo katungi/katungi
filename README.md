@@ -16,6 +16,7 @@ I am a Software Dev with a passion for building cool stuff.
 
 - 🤝 I’m looking to collaborate on any project that uses Ruby,Ruby on Rails, VueJS, NodeJS and Flutter. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=katungi&show_icons=true&theme=radical)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=katungi&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/WarriorRapid) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dankatdennis)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-dennis-7471401a5/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kenyanboydoingthings)
