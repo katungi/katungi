@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/Daniel Dennis">
+<img src="https://github.com/katungi/katungi/blob/master/images/githubcoverpage.png">
 
 ### Hi I am Daniel👋
 
@@ -8,12 +8,11 @@ I am a Software Dev with a passion for building cool stuff.
 - 🤸‍♂️ I’m currently working on a cool project using MEVN stack (also, I am brushing up my data structures and algorithms skills regularly).
 
 
-- 🌱 I recently won Microsoft Game of Learners. 
+- 🥳 I recently won Microsoft Game of Learners. 
+
+- 📺 You can watch the Hackathon on youtube [here](https://www.youtube.com/watch?v=KzEIiYP3r6U&t=17s)
 
 - 🤡 Still trying to figure this open source thing out
-
-
-- 🥳 You can watch the Hackathon on youtube [here](https://www.youtube.com/watch?v=KzEIiYP3r6U&t=17s)
 
 - 🤝 I’m looking to collaborate on any project that uses Ruby,Ruby on Rails, VueJS, NodeJS and Flutter. 
 
