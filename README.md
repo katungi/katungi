@@ -5,7 +5,7 @@
 I am a Software Dev with a passion for building cool stuff.
 
 - 👽 Creator of [Ruby Gemer](https://github.com/marketplace/actions/ruby-gemer) and [Fupiza](http://fupiza.herokuapp.com/)
-- 🤸‍♂️ I’m currently working on a cool project using MEVN stack (also, I am brushing up my data structures and algorithms skills regularly).
+- 🤸‍♂️ I’m currently working on a cool project using MERN stack (also, I am brushing up my data structures and algorithms skills regularly).
 
 
 - 🥳 I recently won Microsoft Game of Learners. 
