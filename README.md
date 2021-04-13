@@ -5,7 +5,7 @@
 Everything I would have written here would have been cliche, so:
 - I love building projects using JS/Flutter/TS/Rust
 - My Social life is non-existent
-- 👽 Creator of [Terminex](https://github.com/marketplace/actions/ruby-gemer) and [Fupiza](http://fupiza.herokuapp.com/)
+- 👽 Creator of [Ruby Gemmer](https://github.com/marketplace/actions/ruby-gemer) and [Terminex](http://github.com/katungi/terminex)
 - 🤝 Just another Dev who can reverse a Binary am I right? 
 - Hit me up with cool projects (Please do...the fate of the world depends on it)
 
