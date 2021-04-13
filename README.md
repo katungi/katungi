@@ -2,19 +2,12 @@
 
 ### Hi I am Daniel👋
 
-I am a Software Dev with a passion for building cool stuff.
-
-- 👽 Creator of [Ruby Gemer](https://github.com/marketplace/actions/ruby-gemer) and [Fupiza](http://fupiza.herokuapp.com/)
-- 🤸‍♂️ I’m currently working on a cool project using MERN stack (also, I am brushing up my data structures and algorithms skills regularly).
-
-
-- 🥳 I recently won Microsoft Game of Learners. 
-
-- 📺 You can watch the Hackathon on youtube [here](https://www.youtube.com/watch?v=KzEIiYP3r6U&t=17s)
-
-- 🤡 Still trying to figure this open source thing out
-
-- 🤝 I’m looking to collaborate on any project that uses Ruby,Ruby on Rails, VueJS, NodeJS and Flutter. 
+Everything I would have written here would have been cliche, so:
+- I love building projects using JS/Flutter/TS/Rust
+- My Social life is non-existent
+- 👽 Creator of [Terminex](https://github.com/marketplace/actions/ruby-gemer) and [Fupiza](http://fupiza.herokuapp.com/)
+- 🤝 Just another Dev who can reverse a Binary am I right? 
+- Hit me up with cool projects (Please do...the fate of the world depends on it)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=katungi&show_icons=true&theme=radical)   
 
