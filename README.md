@@ -6,7 +6,7 @@ I love building projects using JS/Flutter/TS/Rust
 
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=katungi&show_icons=true&theme=radical)    -->
 
- #### Checkout my Website : https://katungi.vercel.app
+ #### Checkout my Website : https://dankat.io
 
  #### Checkout my music
 ![My Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=f5wi1iophluzmchhzxupda6fa)
