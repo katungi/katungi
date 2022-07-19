@@ -4,6 +4,8 @@
 
 I love building projects using JS/Flutter/TS/Rust
 
+![](https://komarev.com/ghpvc/?katungi)
+
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=katungi&show_icons=true&theme=radical)    -->
 
  #### Checkout my Website : https://dankat.io
