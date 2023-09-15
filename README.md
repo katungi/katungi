@@ -2,7 +2,7 @@
  -->
 ### Hi I am Daniel👋
 
-I love building projects using JS/Flutter/TS/Rust
+I love building projects using JS/TS/Go/Rust
 
 ![](https://komarev.com/ghpvc/?username=katungi)
 
