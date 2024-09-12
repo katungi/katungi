@@ -6,8 +6,6 @@ I love building projects using JS/TS/Go/Rust
 
 ![](https://komarev.com/ghpvc/?username=katungi)
 
-[YOUR github stats](https://github-readme-stats.vercel.app/api?username=katungi&show_icons=true&theme=radical)
-
  #### Checkout my Website : https://katungi.vercel.app
 
  #### Checkout my music
