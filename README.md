@@ -6,7 +6,7 @@ I love building projects using JS/TS/Go/Rust
 
 ![](https://komarev.com/ghpvc/?username=katungi)
 
- #### Checkout my Website : https://katungi.vercel.app
+ #### Checkout my Website : https://katungi.dev
 
  #### Checkout my music
 ![My Spotify Music](https://spotify-recently-played-readme.vercel.app/api?user=f5wi1iophluzmchhzxupda6fa)
